@@ -1,5 +1,5 @@
 {
-  "name": "vidbee-workspace",
+  "name": "neuromedia-transcriptor-workspace",
   "private": true,
   "packageManager": "pnpm@11.1.2",
   "scripts": {

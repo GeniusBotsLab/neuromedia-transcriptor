@@ -10,10 +10,10 @@
       "view": "檢視",
       "visit": "造訪"
     },
-    "appName": "VidBee",
+    "appName": "NeuroMedia Transcriptor",
     "autoUpdateDescription": "在背景自動下載並安裝新版本。",
     "autoUpdateTitle": "自動更新",
-    "description": "從 1000+ 個網站下載媒體，在本機建立可搜尋的文稿，再用你選擇的 AI 服務商進行摘要、翻譯或提問——全部集中在一個免費開源的桌面應用程式中。",
+    "description": "從受支援的來源下載媒體，在本機建立可搜尋的文稿，再用你選擇的 AI 服務商進行摘要、翻譯或提問——全部集中在一個免費開源的桌面應用程式中。",
     "downloadEngine": {
       "status": {
         "bundled-fallback": "使用內建備援版本",
@@ -1658,12 +1658,12 @@
     "thinkingOnly": "Thinking only",
     "allowDisableThinking": "Allow turning thinking off",
     "thinkingCapabilitiesHint": "目前只會顯示思考開關，不會顯示強度選擇；如果此模型支援強度調節，請在下方選擇可用檔位。",
-    "defaultThinkingLevel": "預設思考強度",
-    "defaultThinkingAuto": "自動（使用請求層預設值）",
-    "supportedThinkingLevels": "支援的思考強度",
-    "inputTokens": "輸入",
-    "outputTokens": "輸出",
-    "providerDefault": "使用供應商預設值",
+    "defaultThinkingLevel": "Default thinking level",
+    "defaultThinkingAuto": "Auto (use request default)",
+    "supportedThinkingLevels": "Supported thinking levels",
+    "inputTokens": "Input",
+    "outputTokens": "Output",
+    "providerDefault": "Use provider default",
     "automatic": "Use model defaults",
     "enabled": "Supported",
     "disabled": "Not supported",
@@ -1718,13 +1718,7 @@
     "effort": "思考強度 {{level}}",
     "faster": "更快",
     "smarter": "更強",
-    "retrying": "Connection interrupted. Retrying…",
-    "defaultThinkingLevel": "Default thinking level",
-    "defaultThinkingAuto": "Auto (use request default)",
-    "supportedThinkingLevels": "Supported thinking levels",
-    "inputTokens": "Input",
-    "outputTokens": "Output",
-    "providerDefault": "Use provider default"
+    "retrying": "Connection interrupted. Retrying…"
   },
   "web": {
     "saveToThisComputer": "Save to this computer",

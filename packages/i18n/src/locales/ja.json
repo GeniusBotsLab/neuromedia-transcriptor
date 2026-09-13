@@ -10,10 +10,10 @@
       "view": "表示",
       "visit": "訪問"
     },
-    "appName": "VidBee",
+    "appName": "NeuroMedia Transcriptor",
     "autoUpdateDescription": "バックグラウンドで新しいリリースを自動的にダウンロードしてインストールします。",
     "autoUpdateTitle": "自動アップデート",
-    "description": "1000以上のサイトからメディアをダウンロードし、パソコン上で検索可能な文字起こしを作成。選んだAIプロバイダーで要約、翻訳、質問までできる、無料のオープンソース・デスクトップアプリです。",
+    "description": "対応ソースからメディアをダウンロードし、パソコン上で検索可能な文字起こしを作成。選んだAIプロバイダーで要約、翻訳、質問までできる、無料のオープンソース・デスクトップアプリです。",
     "downloadEngine": {
       "status": {
         "bundled-fallback": "同梱版に切り替え済み",
@@ -1658,12 +1658,12 @@
     "thinkingOnly": "Thinking only",
     "allowDisableThinking": "Allow turning thinking off",
     "thinkingCapabilitiesHint": "現在は思考のオン/オフのみ表示し、強度は選択できません。このモデルが強度調整に対応している場合は、下で利用可能なレベルを選んでください。",
-    "defaultThinkingLevel": "デフォルトの思考レベル",
-    "defaultThinkingAuto": "自動（リクエスト層のデフォルトを使用）",
-    "supportedThinkingLevels": "対応する思考レベル",
-    "inputTokens": "入力",
-    "outputTokens": "出力",
-    "providerDefault": "プロバイダーのデフォルトを使用",
+    "defaultThinkingLevel": "Default thinking level",
+    "defaultThinkingAuto": "Auto (use request default)",
+    "supportedThinkingLevels": "Supported thinking levels",
+    "inputTokens": "Input",
+    "outputTokens": "Output",
+    "providerDefault": "Use provider default",
     "automatic": "Use model defaults",
     "enabled": "Supported",
     "disabled": "Not supported",
@@ -1718,13 +1718,7 @@
     "effort": "思考レベル {{level}}",
     "faster": "高速",
     "smarter": "高精度",
-    "retrying": "Connection interrupted. Retrying…",
-    "defaultThinkingLevel": "Default thinking level",
-    "defaultThinkingAuto": "Auto (use request default)",
-    "supportedThinkingLevels": "Supported thinking levels",
-    "inputTokens": "Input",
-    "outputTokens": "Output",
-    "providerDefault": "Use provider default"
+    "retrying": "Connection interrupted. Retrying…"
   },
   "web": {
     "saveToThisComputer": "Save to this computer",

@@ -1,12 +1,12 @@
 {
   "extensionName": {
-    "message": "VidBee Video Downloader"
+    "message": "NeuroMedia Transcriptor Video Downloader"
   },
   "extensionDescription": {
-    "message": "Download videos from over 1,000 websites with VidBee."
+    "message": "Download videos from over 1,000 websites with NeuroMedia Transcriptor."
   },
   "downloadWithVidBee": {
-    "message": "Download with VidBee"
+    "message": "Download with NeuroMedia Transcriptor"
   },
   "hideButton": {
     "message": "Hide"

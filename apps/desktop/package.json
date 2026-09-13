@@ -1,10 +1,10 @@
 {
-  "name": "vidbee",
+  "name": "neuromedia-transcriptor",
   "version": "2.1.0",
-  "description": "Free, open-source desktop app to download media, create local transcripts, and ask AI",
+  "description": "Open-source desktop app to download media, create local transcripts, and generate AI summaries",
   "main": "./out/main/index.js",
-  "author": "VidBee",
-  "homepage": "https://github.com/nexmoe/vidbee",
+  "author": "NeuroMedia",
+  "homepage": "https://github.com/GeniusBotsLab/neuromedia-transcriptor",
   "scripts": {
     "check": "ultracite check && pnpm run check:i18n && pnpm run typecheck",
     "check:i18n": "node scripts/check-locales.js",

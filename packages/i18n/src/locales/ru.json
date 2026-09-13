@@ -10,10 +10,10 @@
       "view": "Просмотр",
       "visit": "Посетить"
     },
-    "appName": "VidBee",
+    "appName": "NeuroMedia Transcriptor",
     "autoUpdateDescription": "Автоматически загружать и устанавливать новые версии в фоновом режиме.",
     "autoUpdateTitle": "Автообновления",
-    "description": "Скачивайте медиа с 1000+ сайтов, создавайте на компьютере расшифровки с поиском, а затем делайте резюме, переводите или задавайте вопросы через выбранного ИИ-провайдера — всё в одном бесплатном настольном приложении с открытым исходным кодом.",
+    "description": "Скачивайте медиа из поддерживаемых источников, создавайте на компьютере расшифровки с поиском, а затем делайте резюме, переводите или задавайте вопросы через выбранного ИИ-провайдера — всё в одном бесплатном настольном приложении с открытым исходным кодом.",
     "downloadEngine": {
       "status": {
         "bundled-fallback": "Встроенная резервная версия",
@@ -1658,12 +1658,12 @@
     "thinkingOnly": "Thinking only",
     "allowDisableThinking": "Allow turning thinking off",
     "thinkingCapabilitiesHint": "Сейчас показывается только переключатель размышления, без уровней интенсивности. Если модель поддерживает уровни, выберите их ниже.",
-    "defaultThinkingLevel": "Уровень размышления по умолчанию",
-    "defaultThinkingAuto": "Авто (значение по умолчанию слоя запроса)",
-    "supportedThinkingLevels": "Поддерживаемые уровни размышления",
-    "inputTokens": "Ввод",
-    "outputTokens": "Вывод",
-    "providerDefault": "Использовать значение провайдера",
+    "defaultThinkingLevel": "Default thinking level",
+    "defaultThinkingAuto": "Auto (use request default)",
+    "supportedThinkingLevels": "Supported thinking levels",
+    "inputTokens": "Input",
+    "outputTokens": "Output",
+    "providerDefault": "Use provider default",
     "automatic": "Use model defaults",
     "enabled": "Supported",
     "disabled": "Not supported",
@@ -1718,13 +1718,7 @@
     "effort": "Усилие {{level}}",
     "faster": "Быстрее",
     "smarter": "Умнее",
-    "retrying": "Connection interrupted. Retrying…",
-    "defaultThinkingLevel": "Default thinking level",
-    "defaultThinkingAuto": "Auto (use request default)",
-    "supportedThinkingLevels": "Supported thinking levels",
-    "inputTokens": "Input",
-    "outputTokens": "Output",
-    "providerDefault": "Use provider default"
+    "retrying": "Connection interrupted. Retrying…"
   },
   "web": {
     "saveToThisComputer": "Save to this computer",

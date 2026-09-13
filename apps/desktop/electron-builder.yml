@@ -1,5 +1,5 @@
-appId: com.vidbee
-productName: VidBee
+appId: com.neuromedia.transcriptor
+productName: NeuroMedia Transcriptor
 compression: maximum
 directories:
   buildResources: build
